@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/chill-zone-cafe/static/css/main.b33ef22a.css",
+    "main.js": "/chill-zone-cafe/static/js/main.04138ffd.js",
+    "static/js/453.5dd09d04.chunk.js": "/chill-zone-cafe/static/js/453.5dd09d04.chunk.js",
+    "index.html": "/chill-zone-cafe/index.html",
+    "main.b33ef22a.css.map": "/chill-zone-cafe/static/css/main.b33ef22a.css.map",
+    "main.04138ffd.js.map": "/chill-zone-cafe/static/js/main.04138ffd.js.map",
+    "453.5dd09d04.chunk.js.map": "/chill-zone-cafe/static/js/453.5dd09d04.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b33ef22a.css",
+    "static/js/main.04138ffd.js"
+  ]
+}
